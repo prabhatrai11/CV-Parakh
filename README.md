@@ -1,6 +1,6 @@
 # Job Parakh
 
-**Job Parakh** is a machine learning and natural language processing-based application designed to evaluate job readiness based on skills, qualifications, and experiences. It helps users assess their suitability for various job positions and suggests potential career paths.
+**Job Parakh** is a machine learning and natural language processing-based application designed to evaluate  resume readiness based on skills, qualifications, and experiences. It helps users assess their suitability for various job positions and suggests potential career paths.
 
 ## Table of Contents
 
